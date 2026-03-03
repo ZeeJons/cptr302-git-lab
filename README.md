@@ -1,1 +1,1 @@
-# cptr302-git-lab
+TEAM 1: A collaborative Git project!
