@@ -1,1 +1,1 @@
-# cptr302-git-lab
+Team 1: Learning Git together
