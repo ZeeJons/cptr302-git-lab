@@ -5,3 +5,4 @@ Team 1: Learning Git together
 Contributers:
 Zion
 Logan
+Paul
